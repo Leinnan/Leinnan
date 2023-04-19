@@ -1,6 +1,4 @@
-Unity and C# at day, Rust at night.
-
-[My site](https://www.mevlyshkin.com/)
+<h2 align="center">Unity and C# at day, Rust at night.</h2><br/>
 <div align="center">
 <div>
 <a href="https://github.com/Leinnan/slavic_castles">
