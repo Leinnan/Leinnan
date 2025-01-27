@@ -13,6 +13,9 @@
 <a href="https://github.com/Leinnan/lwa_fm">
     <img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=Leinnan&repo=lwa_fm&theme=transparent"/>
 </a>
+<a href="https://github.com/Leinnan/rpack">
+    <img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=Leinnan&repo=rpack&theme=transparent"/>
+</a>
 <div>
 <br/>
 <h3><a href="https://www.mevlyshkin.com/projects/">My projects page</a></h3>
